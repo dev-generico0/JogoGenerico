@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://dui1bm12n81t"]
+
+[ext_resource type="PackedScene" uid="uid://dswcujv0v3atk" path="res://Objects/Entitys/ProtaGenerico/player.tscn" id="1_mycvy"]
+[ext_resource type="PackedScene" uid="uid://cjosd0u4s3ief" path="res://Objects/Entitys/GostosaGenerica1/companion.tscn" id="2_80akr"]
+
+[node name="Cena1" type="Node2D" unique_id=2035489338]
+
+[node name="player" parent="." unique_id=1429417756 instance=ExtResource("1_mycvy")]
+position = Vector2(576, 299)
+
+[node name="Companion" parent="." unique_id=1916096942 instance=ExtResource("2_80akr")]
+position = Vector2(409, 298)
+scale = Vector2(1, 1)
