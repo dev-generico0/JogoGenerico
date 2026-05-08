@@ -5,13 +5,13 @@ oi, dev_0 por aqui de novo 👋
 antes de começar qualquer coisa, confirma se você está usando a versão 
 mais atualizada do projeto:
 
-https://github.com/otavioFmiranda/Oi_dev
+https://github.com/dev-generico0/JogoGenerico
 
 para contribuir, faz um fork do repositório no GitHub e depois 
 clona o seu fork:
 
 -----------------
-git clone https://github.com/SEU_USUARIO/Oi_dev.git
+git clone https://github.com/SEU_USUARIO/JogoGenerico
 cd Oi_dev
 -----------------
 
@@ -19,7 +19,7 @@ agora conecta o repositório original como upstream para conseguir
 atualizar seu fork futuramente:
 
 -----------------
-git remote add upstream https://github.com/otavioFmiranda/Oi_dev.git
+git remote add upstream https://github.com/dev-generico0/JogoGenerico
 -----------------
 
 antes de começar qualquer alteração, atualiza tudo:
